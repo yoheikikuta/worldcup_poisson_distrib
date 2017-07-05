@@ -1,4 +1,4 @@
-# Poisson distrib fitting agains worldcup scores data
+# Poisson distrib fitting against worldcup scores data
 
 Simple implementation for poisson fitting agains worldcup scores data.
 
